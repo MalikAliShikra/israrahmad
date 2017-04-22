@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: au-syd.mybluemix.net
+  name: israrahmad
+  host: israrahmad
+  disk_quota: 1024M
